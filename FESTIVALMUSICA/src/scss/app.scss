@@ -1,0 +1,9 @@
+// para ejecutar en consola con el siguiente comando
+// npm run sass
+// npm run dev para gulp
+
+// @use "variables";
+// @use "variables" as *;
+
+@forward "base";
+@forward "layout";
